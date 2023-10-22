@@ -6,6 +6,7 @@ Requirement: X is current postin, T is dest, and D is jump distance, find min ju
 
 Approach: divide Y by X and if modulo not equal to 0 add 1
 
+https://app.codility.com/demo/results/training35DS7M-98Z/
 """
 
 
