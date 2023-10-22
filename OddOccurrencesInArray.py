@@ -6,6 +6,8 @@
 # approach: O(N) traverse the array, store the values if repeated remove from set, return the left over number
 # assume given structure A will follow
 
+#https://app.codility.com/demo/results/trainingHRFXBE-XRD/
+
 def solution(A):
     # Implement your solution here
     
