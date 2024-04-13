@@ -1,3 +1,4 @@
+import java.util.*;
 // https://app.codility.com/demo/results/trainingWJ7B6J-ZPN/
 class Solution {
     public int solution(int N) {
