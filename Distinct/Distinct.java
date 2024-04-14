@@ -1,3 +1,5 @@
+// https://app.codility.com/demo/results/trainingGHJQ32-XGC/
+
 import java.util.*;
 
 class Solution {
