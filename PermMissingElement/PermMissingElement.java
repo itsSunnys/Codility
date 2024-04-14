@@ -1,3 +1,4 @@
+// https://app.codility.com/demo/results/trainingGM289Y-BM3/
 class Solution {
     public int solution(int[] A) {
         long n = A.length + 1;
